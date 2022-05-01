@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-writable-property-names",
-  "version": "0.0.0",
+  "version": "0.0.7",
   "description": "Return an array of an object's own writable property names.",
   "license": "Apache-2.0",
   "author": {
