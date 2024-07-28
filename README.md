@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import writablePropertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names@deno/mod.js';
+import writablePropertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names@v0.2.2-deno/mod.js';
 ```
 
 #### writablePropertyNames( obj )
@@ -93,7 +93,7 @@ var keys = writablePropertyNames( obj );
 
 ```javascript
 import defineProperty from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-define-property@deno/mod.js';
-import writablePropertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names@deno/mod.js';
+import writablePropertyNames from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-writable-property-names@v0.2.2-deno/mod.js';
 
 function Foo() {
     this.a = {
